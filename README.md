@@ -21,7 +21,7 @@
 - giving the secured server with the domain name
 * The link to the secured server with the domain name [ https://github.com/Eugeneus001/My-Second-Semester-Examination-Project/commit/5899291b86a99cfbe025e98a3c6a305ed11ff9fe] or [screenshot 2.jpg]
 - This is the website of the encryted server " https://mealtracker.crabdance.com/ "
--Could not do the Bonus Question because I'm having hard time doing the reverse proxy
--THANK YOU.
+- Could not do the Bonus Question because I'm having hard time doing the reverse proxy
+- THANK YOU.
   
   
