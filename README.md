@@ -1,10 +1,10 @@
-My-Second-semester-Landing-Page
-This is the Second semester Examination Project
-Name: Yusuf Olabamiji
-School ID: ALT/SOE/024/2895
-Course: Cloud Engineering
-Title: The Future of Personalized Nutritional Tracking (MealTracker)
-        Steps Involved in achieving the project
+* My-Second-semester-Landing-Page
+* This is the Second semester Examination Project
+* Name: Yusuf Olabamiji
+* School ID: ALT/SOE/024/2895
+* Course: Cloud Engineering
+* Title: The Future of Personalized Nutritional Tracking (MealTracker)
+ ******     Steps Involved in achieving the project
 - The landing page was creadted with the use of HTML, CSS and some little touch of JS for a dynamic landing page.
 - An EC2 instance was launched on AWS(Amazon Web Services) with ubuntu 22.04
 - It was then connected to powershell using the SSH client
